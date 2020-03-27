@@ -17,7 +17,5 @@ base model is LinearRegression and after that:
 -DecisionTree
 -DecisionTree 20FoldCross
 -RandomForest
--RandomeForestRegression
--AdaBoostRegression
 
 
