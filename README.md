@@ -1,7 +1,6 @@
 # Montreal-Local-Tv-Prediction
-purpose is to predict how much test data channels will take,by using supervised machine learning methods, finding the relation between features(columns) and also donig suitable feature selection...
-i try to predicting
-by good feature selection
+the purpose is to predict how much test data "market share" columns can take and this is by using supervised machine learning methods, finding the relation between features(columns) and also donig appropriate feature selection...
+so in this task i try to predicting by good feature selection
 some features were dropped because of:
 -equal values in multi columns
 -some that were not in test set
